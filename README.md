@@ -1,4 +1,4 @@
-# Markov-Tutorial-BCN-2019
+# Markov-Tutorial-BCN-2020
 Material for the Markov + MD Lecture @ Master MSI Barcelona
 
 These files show how to perform a basic Markov-based analysis from scratch in the R language; and how to apply it
